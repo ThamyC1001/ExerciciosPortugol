@@ -1,0 +1,31 @@
+programa {
+	funcao inicio() {
+	   
+	   real salarios = 0.00
+	   inteiro filhos = 0.00
+	   real total salarios = 0.00
+	   real media de salarios = 0.00
+	   real total de filhos = 0.00
+	   real maior salario = 0.00
+	   real pessoas ate 100 = 0.00
+	   const inteiro HABITANTES = 20
+	   
+	   para (inteiro x=1; x<=habitantes; x++ ) 
+	
+	
+	
+
+	escreva("media de salarios: ")
+		leia(salario)
+		
+		escreva("total de filhos: ")
+		leia(filhos)
+		
+		escreva("maior salario: ")
+		leia(salario)
+		
+	
+		
+		
+	}
+}

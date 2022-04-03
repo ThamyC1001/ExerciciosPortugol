@@ -1,0 +1,20 @@
+programa {
+	funcao inicio() {
+		 
+		 inteiro nota1, nota2, nota3
+		 inteiro media
+		 
+		escreva("expressar nota1: ")
+		leia(nota1)
+		
+		escreva("expressar nota2: ")
+		leia(nota2)
+		
+		escreva("expressar nota3: ")
+		leia(nota3)
+		
+		media = ((nota1 * 2) + (nota2 * 3) + (nota3 * 5))/10
+		
+		escreva("Sua nota final: ", media ) 
+	}
+}

@@ -1,0 +1,18 @@
+programa {
+	funcao inicio() {
+	    
+		inteiro anos , meses, dias 
+		
+		
+		escreva ("Expressar idade em dias: ")
+		leia(dias)
+		
+		anos= dias / 365
+		meses=(dias % 365) / 30
+		dias = (dias % 365) % 30
+		
+		escreva("voce tem:", anos , "anos ,", meses ,"meses ,", dias, "dias de vida")
+		
+		
+	}
+}
